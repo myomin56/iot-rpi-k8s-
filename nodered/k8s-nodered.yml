@@ -1,7 +1,7 @@
 apiVersion: apps/v1
 kind: Deployment
 metadata:
-  name: nodered-app
+  name: mm-nodered-app
   labels:
     app: nodered
 spec:
