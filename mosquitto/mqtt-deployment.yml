@@ -1,7 +1,7 @@
 apiVersion: apps/v1
 kind: Deployment
 metadata:
-  name: mqtt
+  name: mm-mqtt
   labels:
     app: mqtt
 spec:
