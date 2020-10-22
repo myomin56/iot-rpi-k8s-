@@ -9,5 +9,5 @@ spec:
   ports:
   - port: 1880
     protocol: TCP
-  selector:
+  selector: 
     app: nodered
